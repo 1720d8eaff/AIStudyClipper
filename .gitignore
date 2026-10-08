@@ -1,0 +1,22 @@
+# Original installed bundle contains local notes and settings.
+/AIStudyClipper_0.12_Windows/
+/artifacts/
+*.zip
+*.7z
+*.exe
+*.dll
+*.pyd
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+data/
+学习笔记/
+.study-clipper-trash/
+*.log
+Thumbs.db
+Desktop.ini
